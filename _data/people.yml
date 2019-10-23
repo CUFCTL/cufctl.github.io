@@ -20,6 +20,7 @@ wbgreen:
     display_name: "Brad Green"
     github: wbgreen1
     role: grad
+    image: "https://avatars2.githubusercontent.com/u/20074465"
     bio: PhD Candidate with research focus on computer architecture.
 
 akulshr:
@@ -44,7 +45,7 @@ btsheal:
     display_name: "Ben Shealy"
     github: bentsherman
     role: grad
-    image: "https://avatars0.githubusercontent.com/u/7884825?s=460&v=4"
+    image: "https://avatars0.githubusercontent.com/u/7884825"
     bio: PhD Candidate with research focus on high-performance computing and machine learning applications for bioinformatics.
 
 
@@ -57,6 +58,7 @@ hanyug:
     display_name: "Hanyu Guo"
     github: HanyuGuo
     role: alum
+    image: "https://avatars1.githubusercontent.com/u/14354442"
 
 anagha:
     display_name: "Anagha Joshi"
@@ -92,16 +94,19 @@ ctargon:
     display_name: "Colin Targonski"
     github: ctargon
     role: alum
+    image: "https://avatars3.githubusercontent.com/u/14915984"
 
 jtetrea:
     display_name: "Jesse Tetreault"
     github: jtetrea
     role: alum
+    image: "https://avatars3.githubusercontent.com/u/6597672"
 
 eweill:
     display_name: "Edwin Weill"
     github: eweill
     role: alum
+    image: "https://avatars3.githubusercontent.com/u/6711990"
 
 
 
