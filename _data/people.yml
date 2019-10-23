@@ -1,166 +1,137 @@
 
-# prof-a:
-#     display_name: "Prof A"
-#     role: faculty
-
-# prof-b:
-#     display_name: "Prof B"
-#     role: faculty
-
-# prof-c:
-#     display_name: "Prof C"
-#     role: faculty
-
-prof:
-    display_name: "Melissa C Smith"
+smithmc:
+    display_name: "Melissa C. Smith"
     webpage: "https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/msmith.html"
-    github: 
     role: faculty
-    image: 
-    bio: Chair of ECE department and the head of the FCTL lab. Her research interests include FPGAs, HPC, machine learning etc. 
+    image: /img/people/smithmc.jpg
+    bio: Chair of ECE department and the head of the FCTL lab. Her research interests include FPGAs, HPC, machine learning etc.
 
-# scott:
-#     display_name: "Scott Summers"
-#     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-#     role: staff
-#     image: /img/people/scott.png
-#     bio: aka Cyclops
 
-# wolverine:
-#     display_name: "Wolverine"
-#     webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-#     github: wolverine
-#     role: postdoc
 
-# storm:
-#     display_name: "Storm"
-#     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-#     role: grad
-#     image: /img/people/storm.png
+aahmadi:
+    display_name: "Afshin Ahmadi"
+    role: grad
 
-grad-ak:
+mfaykus:
+    display_name: "Max Faykus"
+    role: grad
+
+wbgreen:
+    display_name: "Brad Green"
+    github: wbgreen1
+    role: grad
+    bio: PhD Candidate with research focus on computer architecture.
+
+akulshr:
     display_name: "Ankit Kulshrestha"
-    role: "PhD Candidate" 
+    webpage: "https://aicaffeinelife.github.io"
     github: aicaffeinelife
-    webpage: "aicaffeinelife.github.io"
-    bio: PhD Candidate with research focus on Computer Vision, Model Compression and Deep Learning.
+    role: grad
+    bio: PhD Candidate with research focus on computer vision, model compression and deep learning.
 
+lan3:
+    display_name: "Xiang Lan"
+    github: xianglan010
+    role: grad
 
-grad-lin:
+jul:
     display_name: "Ju Lin"
-    role: "PhD Candidate"
-    bio: PhD Candidate with research focus on Speech recognition, enhancement and related problems.
-
-grad-c:
-    display_name: "Grad C"
+    github: linjucs
     role: grad
+    bio: PhD Candidate with research focus on speech recognition and speech enhancement.
 
-grad-d:
-    display_name: "Grad D"
+btsheal:
+    display_name: "Ben Shealy"
+    github: bentsherman
     role: grad
+    image: "https://avatars0.githubusercontent.com/u/7884825?s=460&v=4"
+    bio: PhD Candidate with research focus on high-performance computing and machine learning applications for bioinformatics.
 
-grad-e:
-    display_name: "Grad E"
-    role: grad
 
-grad-f:
-    display_name: "Grad F"
-    role: grad
 
-grad-g:
-    display_name: "Grad G"
-    role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
-
-alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
-
-alum-b:
-    display_name: "Alum B With Way Longer Name"
+salim:
+    display_name: "Salim Mohammed Ali"
     role: alum
 
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
-
-alum-d:
-    display_name: "Alum D"
+hanyug:
+    display_name: "Hanyu Guo"
+    github: HanyuGuo
     role: alum
 
-alum-e:
-    display_name: "Alum E"
+anagha:
+    display_name: "Anagha Joshi"
     role: alum
 
-alum-f:
-    display_name: "Alum F"
+sriram:
+    display_name: "Sriram Madhivanan"
     role: alum
 
-alum-g:
-    display_name: "Alum G"
+sniu:
+    display_name: "Sufeng Niu"
+    github: sufengniu
     role: alum
 
-alum-h:
-    display_name: "Alum H"
+varun:
+    display_name: "Varun Praveen"
     role: alum
 
-alum-i:
-    display_name: "Alum I"
+jamar:
+    display_name: "Jamar Robinson"
     role: alum
 
-collab-a:
-    display_name: "Collaborator A"
+ksapra:
+    display_name: "Karan Sapra"
+    github: karansapra
+    role: alum
+
+ashrit:
+    display_name: "Ashrit Shetty"
+    role: alum
+
+ctargon:
+    display_name: "Colin Targonski"
+    github: ctargon
+    role: alum
+
+jtetrea:
+    display_name: "Jesse Tetreault"
+    github: jtetrea
+    role: alum
+
+eweill:
+    display_name: "Edwin Weill"
+    github: eweill
+    role: alum
+
+
+
+feltus:
+    display_name: "F. Alex Feltus"
+    webpage: "https://www.clemson.edu/science/departments/genetics-biochemistry/people/profiles/FFELTUS"
     role: collab
 
-collab-b:
-    display_name: "Collaborator B With Long Name"
+ficklin:
+    display_name: "Stephen P. Ficklin"
+    webpage: "https://horticulture.wsu.edu/people/stephen-p-ficklin/"
     role: collab
 
-collab-c:
-    display_name: "Collaborator C"
+sapna:
+    display_name: "Sapna Sarupria"
+    webpage: "https://www.clemson.edu/cecas/departments/chbe/people/sarupria_s.html"
     role: collab
 
-collab-d:
-    display_name: "Collaborator D"
+kcwang:
+    display_name: "Kuang-Ching Wang"
+    webpage: "https://cecas.clemson.edu/cvel/People/cvel_kcwang.html"
     role: collab
 
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
 
-ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
 
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
-
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
+csheare:
+    display_name: "Courtney Shearer"
+    github: csheare
     role: ugrad-alum
 
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
+lexuan:
+    display_name: "Lexuan Sun"
     role: ugrad-alum
