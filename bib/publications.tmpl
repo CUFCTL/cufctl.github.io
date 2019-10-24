@@ -7,10 +7,7 @@
 			<span class="date">
 				{% if entry.fields['year'] != prev_year %}
 				<big><strong>{{ entry.fields['year'] }}</strong></big><br />
-				{% endif %}
 				{%- set prev_year = entry.fields['year'] %}
-				{% if entry.fields['month'] %}
-				{{ entry.fields['month']|monthname }}
 				{% endif %}
 			</span>
 		</td>
