@@ -38,6 +38,8 @@ navigation:
     link: /
   - title: People
     link: /#people
+  - title: Funding
+    link: /#funding
   - title: Research
     link: /research.html
   - title: Publications
