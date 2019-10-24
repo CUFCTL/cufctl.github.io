@@ -4,49 +4,52 @@ smithmc:
     webpage: "https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/msmith.html"
     role: faculty
     image: /img/people/smithmc.jpg
-    bio: Chair of ECE department and the head of the FCTL lab. Her research interests include FPGAs, HPC, machine learning etc.
+    bio: Associate Professor, Lab Advisor
 
 
 
 aahmadi:
     display_name: "Afshin Ahmadi"
     role: grad
+    bio: PhD Candidate
 
 mfaykus:
     display_name: "Max Faykus"
     role: grad
+    bio: PhD Student
 
 wbgreen:
     display_name: "Brad Green"
     github: wbgreen1
     role: grad
     image: "https://avatars2.githubusercontent.com/u/20074465"
-    bio: PhD Candidate with research focus on computer architecture.
+    bio: PhD Candidate
 
 akulshr:
     display_name: "Ankit Kulshrestha"
     webpage: "https://aicaffeinelife.github.io"
     github: aicaffeinelife
     role: grad
-    bio: PhD Candidate with research focus on computer vision, model compression and deep learning.
+    bio: PhD Student
 
 lan3:
     display_name: "Xiang Lan"
     github: xianglan010
     role: grad
+    bio: Masters Student
 
 jul:
     display_name: "Ju Lin"
     github: linjucs
     role: grad
-    bio: PhD Candidate with research focus on speech recognition and speech enhancement.
+    bio: PhD Candidate
 
 btsheal:
     display_name: "Ben Shealy"
     github: bentsherman
     role: grad
     image: "https://avatars0.githubusercontent.com/u/7884825"
-    bio: PhD Candidate with research focus on high-performance computing and machine learning applications for bioinformatics.
+    bio: PhD Candidate
 
 
 
@@ -59,6 +62,7 @@ hanyug:
     github: HanyuGuo
     role: alum
     image: "https://avatars1.githubusercontent.com/u/14354442"
+    bio: M.S., 2018. Now at Facebook.
 
 anagha:
     display_name: "Anagha Joshi"
@@ -72,6 +76,7 @@ sniu:
     display_name: "Sufeng Niu"
     github: sufengniu
     role: alum
+    bio: Ph.D., 2018. Now at LinkedIn.
 
 varun:
     display_name: "Varun Praveen"
@@ -84,6 +89,11 @@ jamar:
 ksapra:
     display_name: "Karan Sapra"
     github: karansapra
+    role: alum
+
+nilim:
+    display_name: "Nilim Sarma"
+    github: nilimsarma
     role: alum
 
 ashrit:
@@ -101,12 +111,14 @@ jtetrea:
     github: jtetrea
     role: alum
     image: "https://avatars3.githubusercontent.com/u/6597672"
+    bio: M.S., 2017. Now at NVIDIA.
 
 eweill:
     display_name: "Edwin Weill"
     github: eweill
     role: alum
     image: "https://avatars3.githubusercontent.com/u/6711990"
+    bio: Ph.D., 2018. Now at NVIDIA.
 
 
 
@@ -114,28 +126,39 @@ feltus:
     display_name: "F. Alex Feltus"
     webpage: "https://www.clemson.edu/science/departments/genetics-biochemistry/people/profiles/FFELTUS"
     role: collab
+    bio: Associate Professor, Clemson University
 
 ficklin:
     display_name: "Stephen P. Ficklin"
     webpage: "https://horticulture.wsu.edu/people/stephen-p-ficklin/"
     role: collab
+    bio: Assistant Professor, WSU
 
 sapna:
     display_name: "Sapna Sarupria"
     webpage: "https://www.clemson.edu/cecas/departments/chbe/people/sarupria_s.html"
     role: collab
+    bio: Associate Professor, Clemson University
 
 kcwang:
     display_name: "Kuang-Ching Wang"
     webpage: "https://cecas.clemson.edu/cvel/People/cvel_kcwang.html"
     role: collab
+    bio: Associate Professor, Clemson University
 
 
+
+millerhall:
+    display_name: "Miller Hall"
+    github: arlindohall
+    role: ugrad-alum
+    bio: B.S., 2016. Now at AWS.
 
 csheare:
     display_name: "Courtney Shearer"
     github: csheare
     role: ugrad-alum
+    bio: B.S., 2019. Now at Zymergen.
 
 lexuan:
     display_name: "Lexuan Sun"
