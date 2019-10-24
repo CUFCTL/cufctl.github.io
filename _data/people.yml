@@ -105,6 +105,7 @@ ctargon:
     github: ctargon
     role: alum
     image: "https://avatars3.githubusercontent.com/u/14915984"
+    bio. M.S., 2019. Now at JPMorgan Chase.
 
 jtetrea:
     display_name: "Jesse Tetreault"
@@ -126,7 +127,7 @@ feltus:
     display_name: "F. Alex Feltus"
     webpage: "https://www.clemson.edu/science/departments/genetics-biochemistry/people/profiles/FFELTUS"
     role: collab
-    bio: Associate Professor, Clemson University
+    bio: Associate Professor, Clemson
 
 ficklin:
     display_name: "Stephen P. Ficklin"
@@ -138,13 +139,13 @@ sapna:
     display_name: "Sapna Sarupria"
     webpage: "https://www.clemson.edu/cecas/departments/chbe/people/sarupria_s.html"
     role: collab
-    bio: Associate Professor, Clemson University
+    bio: Associate Professor, Clemson
 
 kcwang:
     display_name: "Kuang-Ching Wang"
     webpage: "https://cecas.clemson.edu/cvel/People/cvel_kcwang.html"
     role: collab
-    bio: Associate Professor, Clemson University
+    bio: Associate Professor, Clemson
 
 
 
