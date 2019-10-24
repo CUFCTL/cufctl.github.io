@@ -41,6 +41,7 @@ lan3:
 jul:
     display_name: "Ju Lin"
     github: linjucs
+    webpage: "https://linjucs.github.io"
     role: grad
     bio: PhD Candidate
 
@@ -164,3 +165,4 @@ csheare:
 lexuan:
     display_name: "Lexuan Sun"
     role: ugrad-alum
+    role: M.S., 2019. Now at Palo Alto Networks.
