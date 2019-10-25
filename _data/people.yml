@@ -13,6 +13,11 @@ aahmadi:
     role: grad
     bio: PhD Candidate
 
+bbyars:
+    display_name: "Byron Byars"
+    role: grad
+    bio: Masters Student
+
 mfaykus:
     display_name: "Max Faykus"
     role: grad
@@ -38,6 +43,11 @@ lan3:
     role: grad
     bio: Masters Student
 
+ttle:
+    display_name: "Theresa Le"
+    role: grad
+    bio: Masters Student
+
 jul:
     display_name: "Ju Lin"
     github: linjucs
@@ -52,6 +62,11 @@ btsheal:
     role: grad
     image: "https://avatars0.githubusercontent.com/u/7884825"
     bio: PhD Candidate
+
+youngi2:
+    display_name: "Cole Younginer"
+    role: grad
+    bio: Masters Student
 
 
 
