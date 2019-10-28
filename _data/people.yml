@@ -43,6 +43,12 @@ lan3:
     role: grad
     bio: Masters Student
 
+shuangy:
+    display_name: "Shuangying Zhang"
+    github: Zsy950708
+    role: grad
+    bio: Masters Student
+
 ttle:
     display_name: "Theresa Le"
     role: grad
