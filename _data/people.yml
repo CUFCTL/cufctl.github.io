@@ -50,14 +50,15 @@ ttle:
 
 jul:
     display_name: "Ju Lin"
-    github: linjucs
     webpage: "https://linjucs.github.io"
+    github: linjucs
     role: grad
     image: /img/people/Ju_Lin6.jpg
     bio: PhD Candidate
 
 btsheal:
     display_name: "Ben Shealy"
+    webpage: "https://www.linkedin.com/in/ben-shealy/"
     github: bentsherman
     role: grad
     image: "https://avatars0.githubusercontent.com/u/7884825"
@@ -83,30 +84,41 @@ hanyug:
 
 anagha:
     display_name: "Anagha Joshi"
+    webpage: "https://www.linkedin.com/in/anaghaj/"
     role: alum
+    bio: M.S., 2016. Now at Google.
 
 sriram:
     display_name: "Sriram Madhivanan"
+    webpage: "https://www.linkedin.com/in/sriram17/"
     role: alum
+    bio: M.S., 2017. Now at Qualcomm.
 
 sniu:
     display_name: "Sufeng Niu"
+    webpage: "https://www.linkedin.com/in/sufeng-niu-5b008828/"
     github: sufengniu
     role: alum
     bio: Ph.D., 2018. Now at LinkedIn.
 
 varun:
     display_name: "Varun Praveen"
+    webpage: "https://www.linkedin.com/in/vpraveen91/"
     role: alum
+    bio: M.S., 2016. Now at NVIDIA.
 
 jamar:
     display_name: "Jamar Robinson"
+    webpage: "https://www.linkedin.com/in/jamar-robinson-9488aa49/"
     role: alum
+    bio: M.S., 2017. Now at RNET Technologies.
 
 ksapra:
     display_name: "Karan Sapra"
+    webpage: "https://www.linkedin.com/in/karan-sapra-891b6a70/"
     github: karansapra
     role: alum
+    bio: Ph.D., 2018. Now at NVIDIA.
 
 nilim:
     display_name: "Nilim Sarma"
@@ -115,10 +127,18 @@ nilim:
 
 ashrit:
     display_name: "Ashrit Shetty"
+    webpage: "https://www.linkedin.com/in/ashrit-shetty/"
     role: alum
+    bio: M.S., 2017. Now at Qualcomm.
+
+lexuan:
+    display_name: "Lexuan Sun"
+    role: alum
+    bio: M.S., 2018. Now at Palo Alto Networks.
 
 ctargon:
     display_name: "Colin Targonski"
+    webpage: "https://www.linkedin.com/in/colin-targonski-9018bb134/"
     github: ctargon
     role: alum
     image: "https://avatars3.githubusercontent.com/u/14915984"
@@ -126,6 +146,7 @@ ctargon:
 
 jtetrea:
     display_name: "Jesse Tetreault"
+    webpage: "https://www.linkedin.com/in/jesse-tetreault/"
     github: jtetrea
     role: alum
     image: "https://avatars3.githubusercontent.com/u/6597672"
@@ -133,6 +154,7 @@ jtetrea:
 
 eweill:
     display_name: "Edwin Weill"
+    webpage: "https://www.linkedin.com/in/edwinweill/"
     github: eweill
     role: alum
     image: "https://avatars3.githubusercontent.com/u/6711990"
@@ -168,17 +190,14 @@ kcwang:
 
 millerhall:
     display_name: "Miller Hall"
+    webpage: "https://www.linkedin.com/in/arlindohall/"
     github: arlindohall
     role: ugrad-alum
     bio: B.S., 2016. Now at AWS.
 
 csheare:
     display_name: "Courtney Shearer"
+    webpage: "https://www.linkedin.com/in/courtney-shearer/"
     github: csheare
     role: ugrad-alum
     bio: B.S., 2019. Now at Zymergen.
-
-lexuan:
-    display_name: "Lexuan Sun"
-    role: alum
-    bio: M.S., 2018. Now at Palo Alto Networks.
