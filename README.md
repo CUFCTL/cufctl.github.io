@@ -8,7 +8,7 @@ Since the site is deployed to Github Pages, you don't need to install and run Je
 
 ## Bibliography
 
-When updating the bibliography, each bibtex item must have at least the following fields:
+When updating the bibliography, each BibTeX item must have at least the following fields:
 ```
 % conference paper
 @inproceedings{proceedings,
@@ -26,3 +26,5 @@ When updating the bibliography, each bibtex item must have at least the followin
   year={year}
 }
 ```
+
+You can get the BibTeX citation easily from Google Scholar, just search for your paper, click on the quote icon, then click the "BibTeX" link.
