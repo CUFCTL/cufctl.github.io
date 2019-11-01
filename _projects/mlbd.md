@@ -1,5 +1,6 @@
 ---
-title: Creative Inquiry: Machine Learning / Big Data
+title: "Machine Learning / Big Data"
+subtitle: "Creative Inquiry"
 
 description: |
   Research-oriented course that teaches undergraduates how to use data science and machine learning to analyze big data.

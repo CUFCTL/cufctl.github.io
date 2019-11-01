@@ -1,5 +1,6 @@
 ---
-title: Creative Inquiry: Future Engineers
+title: "Future Engineers"
+subtitle: "Creative Inquiry"
 
 description: |
   STEAM service/outreach program for local elementary school students.
