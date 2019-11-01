@@ -1,5 +1,5 @@
 ---
-title: A Project
+title: Creative Inquiry: Future Engineers
 
 description: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit blandit
