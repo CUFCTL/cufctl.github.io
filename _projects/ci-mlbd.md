@@ -11,7 +11,7 @@ people:
   - akulshr
 
 layout: project
-last-updated: 2019-10-31
+last-updated: 2018-09-01
 ---
 
 [Project Website](https://cufctl.github.io/creative-inquiry/)

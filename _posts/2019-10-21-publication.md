@@ -4,4 +4,4 @@ shortnews: true
 icon: newspaper-o
 ---
 
-Lin, Sufeng, and Xiang's paper, "Speech Enhancement Using Forked Generative Adversarial Networks with Spectral Subtraction", was accepted to [Interspeech 2019](https://www.interspeech2019.org/).
+Ben's paper, "GPU Implementation of Pairwise Gaussian Mixture Models for Multi-Modal Gene Co-Expression Networks", was accepted to [IEEE Access](https://ieeeaccess.ieee.org/).

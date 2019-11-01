@@ -9,7 +9,7 @@ people:
   - smithmc
 
 layout: project
-last-updated: 2019-10-31
+last-updated: 2008-09-01
 ---
 
 In 2008, Dr. Melissa Smith developed an innovative program called ‘Clemson Elementary School Future Engineers’ at the local elementary school. The program targets 4th and 5th grade students with the goal of inspiring them to pursue careers in STEM fields.
