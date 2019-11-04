@@ -23,6 +23,8 @@ Selected projects:
 
 - [scidas/nextflow-api](https://github.com/SciDAS/nextflow-api): A web service for managing Nextflow pipelines on Kubernetes
 
+- [sufengniu/GVIN](https://github.com/sufengniu/GVIN): Generalized Value Iteration Networks
+
 - [SystemsGenetics/BioDepVis](https://github.com/SystemsGenetics/BioDepVis): Visualization tool for large biological networks
 - [SystemsGenetics/gene-oracle](https://github.com/SystemsGenetics/gene-oracle): Feature selection tool for high-dimensional omic data
 - [SystemsGenetics/KINC](https://github.com/SystemsGenetics/KINC): Tool for contsructing co-expression networks from high-dimensional omic data
