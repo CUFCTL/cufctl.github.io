@@ -8,11 +8,6 @@ smithmc:
 
 
 
-aahmadi:
-    display_name: "Afshin Ahmadi"
-    role: grad
-    bio: PhD Candidate
-
 bbyars:
     display_name: "Byron Byars"
     role: grad
@@ -29,13 +24,6 @@ wbgreen:
     role: grad
     image: "https://avatars2.githubusercontent.com/u/20074465"
     bio: PhD Candidate
-
-akulshr:
-    display_name: "Ankit Kulshrestha"
-    webpage: "https://aicaffeinelife.github.io"
-    github: aicaffeinelife
-    role: grad
-    bio: PhD Student
 
 lan3:
     display_name: "Xiang Lan"
@@ -77,9 +65,17 @@ youngi2:
 
 
 
+aahmadi:
+    display_name: "Afshin Ahmadi"
+    webpage: "https://www.linkedin.com/in/afshin-ahmadi/"
+    role: alum
+    bio: Ph.D., 2020.
+
 salim:
     display_name: "Salim Mohammed Ali"
+    webpage: "https://www.linkedin.com/in/salim-mohammed-ali-48970b72/"
     role: alum
+    bio: M.S., 2015.
 
 hanyug:
     display_name: "Hanyu Guo"
@@ -95,6 +91,13 @@ anagha:
     role: alum
     bio: M.S., 2016. Now at Google.
 
+akulshr:
+    display_name: "Ankit Kulshrestha"
+    webpage: "https://aicaffeinelife.github.io"
+    github: aicaffeinelife
+    role: alum
+    bio: M.S., 2019.
+
 sriram:
     display_name: "Sriram Madhivanan"
     webpage: "https://www.linkedin.com/in/sriram17/"
@@ -107,6 +110,12 @@ sniu:
     github: sufengniu
     role: alum
     bio: Ph.D., 2018. Now at LinkedIn.
+
+vivek:
+    display_name: "Vivek Pallipuram"
+    webpage: "https://www.linkedin.com/in/vivekpkvraman/"
+    role: alum
+    bio: Ph.D., 2013.
 
 varun:
     display_name: "Varun Praveen"
@@ -129,8 +138,10 @@ ksapra:
 
 nilim:
     display_name: "Nilim Sarma"
+    webpage: "https://www.linkedin.com/in/nilim-sarma-3b47901a/"
     github: nilimsarma
     role: alum
+    bio: M.S., 2018. Now at Intel.
 
 ashrit:
     display_name: "Ashrit Shetty"
@@ -140,6 +151,7 @@ ashrit:
 
 lexuan:
     display_name: "Lexuan Sun"
+    webpage: "https://www.linkedin.com/in/lexuan-sun-040392a2/"
     role: alum
     bio: M.S., 2018. Now at Palo Alto Networks.
 
