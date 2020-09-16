@@ -199,6 +199,12 @@ sapna:
     role: collab
     bio: Associate Professor, Clemson
 
+sapna:
+    display_name: "Ulf Schiller"
+    webpage: "https://www.clemson.edu/cecas/departments/mse/people/faculty/schiller.html"
+    role: collab
+    bio: Assistant Professor, Clemson
+
 kcwang:
     display_name: "Kuang-Ching Wang"
     webpage: "https://cecas.clemson.edu/cvel/People/cvel_kcwang.html"
