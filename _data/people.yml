@@ -23,7 +23,7 @@ wbgreen:
     github: wbgreen1
     role: grad
     image: "https://avatars2.githubusercontent.com/u/20074465"
-    bio: PhD Candidate
+    bio: PhD Student
 
 lan3:
     display_name: "Xiang Lan"
@@ -48,7 +48,7 @@ jul:
     github: linjucs
     role: grad
     image: /img/people/Ju_Lin6.jpg
-    bio: PhD Candidate
+    bio: PhD Student
 
 btsheal:
     display_name: "Ben Shealy"
