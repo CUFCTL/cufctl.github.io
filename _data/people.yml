@@ -10,35 +10,47 @@ smithmc:
 
 bbyars:
     display_name: "Byron Byars"
+    webpage: "https://www.linkedin.com/in/byron-byars-b3160a162/"
     role: grad
     bio: Masters Student
 
 mfaykus:
     display_name: "Max Faykus"
+    webpage: "https://www.linkedin.com/in/max-faykus-iii/"
+    role: grad
+    bio: PhD Student
+
+mikailg:
+    display_name: "Mikaila Gossman"
+    webpage: "https://www.linkedin.com/in/mikaila-gossman-133622106/"
     role: grad
     bio: PhD Student
 
 wbgreen:
     display_name: "Brad Green"
+    webpage: "https://www.linkedin.com/in/wbgreenclemson/"
     github: wbgreen1
     role: grad
     image: "https://avatars2.githubusercontent.com/u/20074465"
-    bio: PhD Student
+    bio: PhD Candidate
 
 lan3:
     display_name: "Xiang Lan"
+    webpage: "https://www.linkedin.com/in/xiang-lan-0aba58173/"
     github: xianglan010
     role: grad
     bio: Masters Student
 
-shuangy:
-    display_name: "Shuangying Zhang"
-    github: Zsy950708
+dlangbe:
+    display_name: "David Langbehn"
+    webpage: "https://www.linkedin.com/in/david-langbehn-153234139/"
+    github: dlangbe
     role: grad
     bio: Masters Student
 
 ttle:
     display_name: "Theresa Le"
+    webpage: "https://www.linkedin.com/in/letheresa193/"
     role: grad
     bio: Masters Student
 
@@ -60,6 +72,13 @@ btsheal:
 
 youngi2:
     display_name: "Cole Younginer"
+    webpage: "https://www.linkedin.com/in/cole-younginer-927307145/"
+    role: grad
+    bio: Masters Student
+
+shuangy:
+    display_name: "Shuangying Zhang"
+    github: Zsy950708
     role: grad
     bio: Masters Student
 
@@ -69,7 +88,7 @@ aahmadi:
     display_name: "Afshin Ahmadi"
     webpage: "https://www.linkedin.com/in/afshin-ahmadi/"
     role: alum
-    bio: Ph.D., 2020.
+    bio: Ph.D., 2020. Now at ERCOT.
 
 salim:
     display_name: "Salim Mohammed Ali"
@@ -115,7 +134,7 @@ vivek:
     display_name: "Vivek Pallipuram"
     webpage: "https://www.linkedin.com/in/vivekpkvraman/"
     role: alum
-    bio: Ph.D., 2013.
+    bio: Ph.D., 2013. Now at University of the Pacific.
 
 varun:
     display_name: "Varun Praveen"
@@ -142,6 +161,12 @@ nilim:
     github: nilimsarma
     role: alum
     bio: M.S., 2018. Now at Intel.
+
+mayuk:
+    display_name: "Mayukh Sattiraju"
+    webpage: "https://www.linkedin.com/in/cole-younginer-927307145/"
+    role: alum
+    bio: M.S., 2019. Now at Canoo.
 
 ashrit:
     display_name: "Ashrit Shetty"
@@ -225,4 +250,11 @@ csheare:
     webpage: "https://www.linkedin.com/in/courtney-shearer/"
     github: csheare
     role: ugrad-alum
-    bio: B.S., 2019. Now at Zymergen.
+    bio: B.S., 2019. Now at CRISPR Therapeutics.
+
+dwtodd:
+    display_name: "Dillon Todd"
+    webpage: "https://www.linkedin.com/in/dillon-todd-3664b116a/"
+    github: dwtodd
+    role: ugrad-alum
+    bio: B.S., 2021. Now at Garmin.
