@@ -41,19 +41,6 @@ lan3:
     role: grad
     bio: Masters Student
 
-dlangbe:
-    display_name: "David Langbehn"
-    webpage: "https://www.linkedin.com/in/david-langbehn-153234139/"
-    github: dlangbe
-    role: grad
-    bio: Masters Student
-
-ttle:
-    display_name: "Theresa Le"
-    webpage: "https://www.linkedin.com/in/letheresa193/"
-    role: grad
-    bio: Masters Student
-
 jul:
     display_name: "Ju Lin"
     webpage: "https://linjucs.github.io"
@@ -69,12 +56,6 @@ btsheal:
     role: grad
     image: "https://avatars0.githubusercontent.com/u/7884825"
     bio: PhD Candidate
-
-youngi2:
-    display_name: "Cole Younginer"
-    webpage: "https://www.linkedin.com/in/cole-younginer-927307145/"
-    role: grad
-    bio: Masters Student
 
 shuangy:
     display_name: "Shuangying Zhang"
@@ -116,6 +97,19 @@ akulshr:
     github: aicaffeinelife
     role: alum
     bio: M.S., 2019.
+
+dlangbe:
+    display_name: "David Langbehn"
+    webpage: "https://www.linkedin.com/in/david-langbehn-153234139/"
+    github: dlangbe
+    role: alum
+    bio: M.S., 2021.
+
+ttle:
+    display_name: "Theresa Le"
+    webpage: "https://www.linkedin.com/in/letheresa193/"
+    role: alum
+    bio: M.S., 2021. Now at ARM.
 
 sriram:
     display_name: "Sriram Madhivanan"
@@ -196,6 +190,13 @@ jtetrea:
     image: "https://avatars3.githubusercontent.com/u/6597672"
     bio: M.S., 2017. Now at NVIDIA.
 
+dwtodd:
+    display_name: "Dillon Todd"
+    webpage: "https://www.linkedin.com/in/dillon-todd-3664b116a/"
+    github: dwtodd
+    role: alum
+    bio: M.S., 2021. Now at Garmin.
+
 eweill:
     display_name: "Edwin Weill"
     webpage: "https://www.linkedin.com/in/edwinweill/"
@@ -203,6 +204,12 @@ eweill:
     role: alum
     image: "https://avatars3.githubusercontent.com/u/6711990"
     bio: Ph.D., 2018. Now at NVIDIA.
+
+youngi2:
+    display_name: "Cole Younginer"
+    webpage: "https://www.linkedin.com/in/cole-younginer-927307145/"
+    role: alum
+    bio: M.S., 2021. Now at Advanced Automation.
 
 
 
@@ -251,10 +258,3 @@ csheare:
     github: csheare
     role: ugrad-alum
     bio: B.S., 2019. Now at CRISPR Therapeutics.
-
-dwtodd:
-    display_name: "Dillon Todd"
-    webpage: "https://www.linkedin.com/in/dillon-todd-3664b116a/"
-    github: dwtodd
-    role: ugrad-alum
-    bio: B.S., 2021. Now at Garmin.
