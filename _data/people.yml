@@ -79,7 +79,7 @@ lan3:
     display_name: Xiang Lan
     webpage: https://www.linkedin.com/in/xiang-lan-0aba58173/
     github: xianglan010
-    role: grad
+    role: alum
     bio: M.S., 2021.
 
 dlangbe:
@@ -99,7 +99,7 @@ jul:
     display_name: Ju Lin
     webpage: https://linjucs.github.io
     github: linjucs
-    role: grad
+    role: alum
     image: /img/people/Ju_Lin6.jpg
     bio: Ph.D., 2021. Now at Meta.
 
@@ -158,7 +158,7 @@ btsheal:
     display_name: Ben Sherman
     webpage: https://www.linkedin.com/in/ben-t-sherman/
     github: bentsherman
-    role: grad
+    role: alum
     image: https://avatars0.githubusercontent.com/u/7884825
     bio: Ph.D., 2021. Now at Seqera Labs.
 
@@ -214,8 +214,8 @@ youngi2:
 shuangy:
     display_name: Shuangying Zhang
     github: Zsy950708
-    role: grad
-    bio: M.S.
+    role: alum
+    bio: M.S., ????.
 
 
 
