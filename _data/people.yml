@@ -11,32 +11,32 @@ smithmc:
 bbyars:
     display_name: Byron Byars
     webpage: https://www.linkedin.com/in/byron-byars-b3160a162/
-    role: grad
+    role: student
     bio: Masters Student
 
 mfaykus:
     display_name: Max Faykus
     webpage: https://www.linkedin.com/in/max-faykus-iii/
-    role: grad
+    role: student
     bio: PhD Student
 
 pferrei:
     display_name: Rick Ferreira
     webpage: https://www.linkedin.com/in/rick-ferreira-76421588/
-    role: grad
+    role: student
     bio: PhD Student
 
 mikailg:
     display_name: Mikaila Gossman
     webpage: https://www.linkedin.com/in/mikaila-gossman-133622106/
-    role: grad
+    role: student
     bio: PhD Student
 
 wbgreen:
     display_name: Brad Green
     webpage: https://www.linkedin.com/in/wbgreenclemson/
     github: wbgreen1
-    role: grad
+    role: student
     image: https://avatars2.githubusercontent.com/u/20074465
     bio: PhD Candidate
 
@@ -45,140 +45,150 @@ wbgreen:
 aahmadi:
     display_name: Afshin Ahmadi
     webpage: https://www.linkedin.com/in/afshin-ahmadi/
-    role: alum
+    role: alum-phd
     bio: Ph.D., 2020. Now at ERCOT.
+
+jul:
+    display_name: Ju Lin
+    webpage: https://linjucs.github.io
+    github: linjucs
+    role: alum-phd
+    image: /img/people/Ju_Lin6.jpg
+    bio: Ph.D., 2021. Now at Meta.
+
+sniu:
+    display_name: Sufeng Niu
+    webpage: https://www.linkedin.com/in/sufeng-niu-5b008828/
+    github: sufengniu
+    role: alum-phd
+    bio: Ph.D., 2018. Now at LinkedIn.
+
+vivek:
+    display_name: Vivek Pallipuram
+    webpage: https://www.linkedin.com/in/vivekpkvraman/
+    role: alum-phd
+    bio: Ph.D., 2013. Now at University of the Pacific.
+
+ksapra:
+    display_name: Karan Sapra
+    webpage: https://www.linkedin.com/in/karan-sapra-891b6a70/
+    github: karansapra
+    role: alum-phd
+    bio: Ph.D., 2018. Now at NVIDIA.
+
+btsheal:
+    display_name: Ben Sherman
+    webpage: https://www.linkedin.com/in/ben-t-sherman/
+    github: bentsherman
+    role: alum-phd
+    image: https://avatars0.githubusercontent.com/u/7884825
+    bio: Ph.D., 2021. Now at Seqera Labs.
+
+eweill:
+    display_name: Edwin Weill
+    webpage: https://www.linkedin.com/in/edwinweill/
+    github: eweill
+    role: alum-phd
+    image: https://avatars3.githubusercontent.com/u/6711990
+    bio: Ph.D., 2018. Now at NVIDIA.
+
+
 
 salim:
     display_name: Salim Mohammed Ali
     webpage: https://www.linkedin.com/in/salim-mohammed-ali-48970b72/
-    role: alum
+    role: alum-ms
     bio: M.S., 2015.
 
 hanyug:
     display_name: Hanyu Guo
     webpage: https://www.linkedin.com/in/hanyu-g-475069a1/
     github: HanyuGuo
-    role: alum
+    role: alum-ms
     image: https://avatars1.githubusercontent.com/u/14354442
     bio: M.S., 2018. Now at Meta.
 
 anagha:
     display_name: Anagha Joshi
     webpage: https://www.linkedin.com/in/anaghaj/
-    role: alum
+    role: alum-ms
     bio: M.S., 2016. Now at Google.
 
 akulshr:
     display_name: Ankit Kulshrestha
     webpage: https://aicaffeinelife.github.io
     github: aicaffeinelife
-    role: alum
+    role: alum-ms
     bio: M.S., 2019.
 
 lan3:
     display_name: Xiang Lan
     webpage: https://www.linkedin.com/in/xiang-lan-0aba58173/
     github: xianglan010
-    role: alum
+    role: alum-ms
     bio: M.S., 2021.
 
 dlangbe:
     display_name: David Langbehn
     webpage: https://www.linkedin.com/in/david-langbehn-153234139/
     github: dlangbe
-    role: alum
+    role: alum-ms
     bio: M.S., 2021. Now at AMD.
 
 ttle:
     display_name: Theresa Le
     webpage: https://www.linkedin.com/in/letheresa193/
-    role: alum
+    role: alum-ms
     bio: M.S., 2021. Now at ARM.
-
-jul:
-    display_name: Ju Lin
-    webpage: https://linjucs.github.io
-    github: linjucs
-    role: alum
-    image: /img/people/Ju_Lin6.jpg
-    bio: Ph.D., 2021. Now at Meta.
 
 sriram:
     display_name: Sriram Madhivanan
     webpage: https://www.linkedin.com/in/sriram17/
-    role: alum
+    role: alum-ms
     bio: M.S., 2017. Now at Qualcomm.
-
-sniu:
-    display_name: Sufeng Niu
-    webpage: https://www.linkedin.com/in/sufeng-niu-5b008828/
-    github: sufengniu
-    role: alum
-    bio: Ph.D., 2018. Now at LinkedIn.
-
-vivek:
-    display_name: Vivek Pallipuram
-    webpage: https://www.linkedin.com/in/vivekpkvraman/
-    role: alum
-    bio: Ph.D., 2013. Now at University of the Pacific.
 
 varun:
     display_name: Varun Praveen
     webpage: https://www.linkedin.com/in/vpraveen91/
-    role: alum
+    role: alum-ms
     bio: M.S., 2016. Now at NVIDIA.
 
 jamar:
     display_name: Jamar Robinson
     webpage: https://www.linkedin.com/in/jamar-robinson-9488aa49/
-    role: alum
+    role: alum-ms
     bio: M.S., 2017. Now at RNET Technologies.
-
-ksapra:
-    display_name: Karan Sapra
-    webpage: https://www.linkedin.com/in/karan-sapra-891b6a70/
-    github: karansapra
-    role: alum
-    bio: Ph.D., 2018. Now at NVIDIA.
 
 nilim:
     display_name: Nilim Sarma
     webpage: https://www.linkedin.com/in/nilim-sarma-3b47901a/
     github: nilimsarma
-    role: alum
+    role: alum-ms
     bio: M.S., 2018. Now at Intel.
 
 mayuk:
     display_name: Mayukh Sattiraju
     webpage: https://www.linkedin.com/in/mayukh-sattiraju/
-    role: alum
+    role: alum-ms
     bio: M.S., 2019. Now at Canoo.
-
-btsheal:
-    display_name: Ben Sherman
-    webpage: https://www.linkedin.com/in/ben-t-sherman/
-    github: bentsherman
-    role: alum
-    image: https://avatars0.githubusercontent.com/u/7884825
-    bio: Ph.D., 2021. Now at Seqera Labs.
 
 ashrit:
     display_name: Ashrit Shetty
     webpage: https://www.linkedin.com/in/ashrit-shetty/
-    role: alum
+    role: alum-ms
     bio: M.S., 2017. Now at Qualcomm.
 
 lexuan:
     display_name: Lexuan Sun
     webpage: https://www.linkedin.com/in/lexuan-sun-040392a2/
-    role: alum
+    role: alum-ms
     bio: M.S., 2018. Now at Palo Alto Networks.
 
 ctargon:
     display_name: Colin Targonski
     webpage: https://www.linkedin.com/in/colin-targonski-9018bb134/
     github: ctargon
-    role: alum
+    role: alum-ms
     image: https://avatars3.githubusercontent.com/u/14915984
     bio: M.S., 2019. Now at JPMorgan Chase.
 
@@ -186,7 +196,7 @@ jtetrea:
     display_name: Jesse Tetreault
     webpage: https://www.linkedin.com/in/jesse-tetreault/
     github: jtetrea
-    role: alum
+    role: alum-ms
     image: https://avatars3.githubusercontent.com/u/6597672
     bio: M.S., 2017. Now at NVIDIA.
 
@@ -194,28 +204,36 @@ dwtodd:
     display_name: Dillon Todd
     webpage: https://www.linkedin.com/in/dillon-todd-3664b116a/
     github: dwtodd
-    role: alum
+    role: alum-ms
     bio: M.S., 2021. Now at Garmin.
-
-eweill:
-    display_name: Edwin Weill
-    webpage: https://www.linkedin.com/in/edwinweill/
-    github: eweill
-    role: alum
-    image: https://avatars3.githubusercontent.com/u/6711990
-    bio: Ph.D., 2018. Now at NVIDIA.
 
 youngi2:
     display_name: Cole Younginer
     webpage: https://www.linkedin.com/in/cole-younginer-927307145/
-    role: alum
+    role: alum-ms
     bio: M.S., 2021. Now at Advanced Automation.
 
 shuangy:
     display_name: Shuangying Zhang
     github: Zsy950708
-    role: alum
+    role: alum-ms
     bio: M.S., ????.
+
+
+
+millerhall:
+    display_name: Miller Hall
+    webpage: https://www.linkedin.com/in/arlindohall/
+    github: arlindohall
+    role: alum-ugrad
+    bio: B.S., 2016. Now at AWS.
+
+csheare:
+    display_name: Courtney Shearer
+    webpage: https://www.linkedin.com/in/courtney-shearer/
+    github: csheare
+    role: alum-ugrad
+    bio: B.S., 2019. Now at CRISPR Therapeutics.
 
 
 
@@ -248,19 +266,3 @@ kcwang:
     webpage: https://cecas.clemson.edu/cvel/People/cvel_kcwang.html
     role: collab
     bio: Associate Professor, Clemson
-
-
-
-millerhall:
-    display_name: Miller Hall
-    webpage: https://www.linkedin.com/in/arlindohall/
-    github: arlindohall
-    role: ugrad-alum
-    bio: B.S., 2016. Now at AWS.
-
-csheare:
-    display_name: Courtney Shearer
-    webpage: https://www.linkedin.com/in/courtney-shearer/
-    github: csheare
-    role: ugrad-alum
-    bio: B.S., 2019. Now at CRISPR Therapeutics.
