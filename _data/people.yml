@@ -1,7 +1,7 @@
 
 smithmc:
-    display_name: "Melissa C. Smith"
-    webpage: "https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/msmith.html"
+    display_name: Melissa C. Smith
+    webpage: https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/msmith.html
     role: faculty
     image: /img/people/smithmc.jpg
     bio: Associate Professor, Lab Advisor
@@ -9,210 +9,210 @@ smithmc:
 
 
 bbyars:
-    display_name: "Byron Byars"
-    webpage: "https://www.linkedin.com/in/byron-byars-b3160a162/"
+    display_name: Byron Byars
+    webpage: https://www.linkedin.com/in/byron-byars-b3160a162/
     role: grad
     bio: Masters Student
 
 mfaykus:
-    display_name: "Max Faykus"
-    webpage: "https://www.linkedin.com/in/max-faykus-iii/"
+    display_name: Max Faykus
+    webpage: https://www.linkedin.com/in/max-faykus-iii/
     role: grad
     bio: PhD Student
 
 pferrei:
-    display_name: "Rick Ferreira"
-    webpage: "https://www.linkedin.com/in/rick-ferreira-76421588/"
+    display_name: Rick Ferreira
+    webpage: https://www.linkedin.com/in/rick-ferreira-76421588/
     role: grad
     bio: PhD Student
 
 mikailg:
-    display_name: "Mikaila Gossman"
-    webpage: "https://www.linkedin.com/in/mikaila-gossman-133622106/"
+    display_name: Mikaila Gossman
+    webpage: https://www.linkedin.com/in/mikaila-gossman-133622106/
     role: grad
     bio: PhD Student
 
 wbgreen:
-    display_name: "Brad Green"
-    webpage: "https://www.linkedin.com/in/wbgreenclemson/"
+    display_name: Brad Green
+    webpage: https://www.linkedin.com/in/wbgreenclemson/
     github: wbgreen1
     role: grad
-    image: "https://avatars2.githubusercontent.com/u/20074465"
+    image: https://avatars2.githubusercontent.com/u/20074465
     bio: PhD Candidate
 
 
 
 aahmadi:
-    display_name: "Afshin Ahmadi"
-    webpage: "https://www.linkedin.com/in/afshin-ahmadi/"
+    display_name: Afshin Ahmadi
+    webpage: https://www.linkedin.com/in/afshin-ahmadi/
     role: alum
     bio: Ph.D., 2020. Now at ERCOT.
 
 salim:
-    display_name: "Salim Mohammed Ali"
-    webpage: "https://www.linkedin.com/in/salim-mohammed-ali-48970b72/"
+    display_name: Salim Mohammed Ali
+    webpage: https://www.linkedin.com/in/salim-mohammed-ali-48970b72/
     role: alum
     bio: M.S., 2015.
 
 hanyug:
-    display_name: "Hanyu Guo"
-    webpage: "https://www.linkedin.com/in/hanyu-g-475069a1/"
+    display_name: Hanyu Guo
+    webpage: https://www.linkedin.com/in/hanyu-g-475069a1/
     github: HanyuGuo
     role: alum
-    image: "https://avatars1.githubusercontent.com/u/14354442"
+    image: https://avatars1.githubusercontent.com/u/14354442
     bio: M.S., 2018. Now at Meta.
 
 anagha:
-    display_name: "Anagha Joshi"
-    webpage: "https://www.linkedin.com/in/anaghaj/"
+    display_name: Anagha Joshi
+    webpage: https://www.linkedin.com/in/anaghaj/
     role: alum
     bio: M.S., 2016. Now at Google.
 
 akulshr:
-    display_name: "Ankit Kulshrestha"
-    webpage: "https://aicaffeinelife.github.io"
+    display_name: Ankit Kulshrestha
+    webpage: https://aicaffeinelife.github.io
     github: aicaffeinelife
     role: alum
     bio: M.S., 2019.
 
 lan3:
-    display_name: "Xiang Lan"
-    webpage: "https://www.linkedin.com/in/xiang-lan-0aba58173/"
+    display_name: Xiang Lan
+    webpage: https://www.linkedin.com/in/xiang-lan-0aba58173/
     github: xianglan010
     role: grad
     bio: M.S., 2021.
 
 dlangbe:
-    display_name: "David Langbehn"
-    webpage: "https://www.linkedin.com/in/david-langbehn-153234139/"
+    display_name: David Langbehn
+    webpage: https://www.linkedin.com/in/david-langbehn-153234139/
     github: dlangbe
     role: alum
     bio: M.S., 2021. Now at AMD.
 
 ttle:
-    display_name: "Theresa Le"
-    webpage: "https://www.linkedin.com/in/letheresa193/"
+    display_name: Theresa Le
+    webpage: https://www.linkedin.com/in/letheresa193/
     role: alum
     bio: M.S., 2021. Now at ARM.
 
 jul:
-    display_name: "Ju Lin"
-    webpage: "https://linjucs.github.io"
+    display_name: Ju Lin
+    webpage: https://linjucs.github.io
     github: linjucs
     role: grad
     image: /img/people/Ju_Lin6.jpg
     bio: Ph.D., 2021. Now at Meta.
 
 sriram:
-    display_name: "Sriram Madhivanan"
-    webpage: "https://www.linkedin.com/in/sriram17/"
+    display_name: Sriram Madhivanan
+    webpage: https://www.linkedin.com/in/sriram17/
     role: alum
     bio: M.S., 2017. Now at Qualcomm.
 
 sniu:
-    display_name: "Sufeng Niu"
-    webpage: "https://www.linkedin.com/in/sufeng-niu-5b008828/"
+    display_name: Sufeng Niu
+    webpage: https://www.linkedin.com/in/sufeng-niu-5b008828/
     github: sufengniu
     role: alum
     bio: Ph.D., 2018. Now at LinkedIn.
 
 vivek:
-    display_name: "Vivek Pallipuram"
-    webpage: "https://www.linkedin.com/in/vivekpkvraman/"
+    display_name: Vivek Pallipuram
+    webpage: https://www.linkedin.com/in/vivekpkvraman/
     role: alum
     bio: Ph.D., 2013. Now at University of the Pacific.
 
 varun:
-    display_name: "Varun Praveen"
-    webpage: "https://www.linkedin.com/in/vpraveen91/"
+    display_name: Varun Praveen
+    webpage: https://www.linkedin.com/in/vpraveen91/
     role: alum
     bio: M.S., 2016. Now at NVIDIA.
 
 jamar:
-    display_name: "Jamar Robinson"
-    webpage: "https://www.linkedin.com/in/jamar-robinson-9488aa49/"
+    display_name: Jamar Robinson
+    webpage: https://www.linkedin.com/in/jamar-robinson-9488aa49/
     role: alum
     bio: M.S., 2017. Now at RNET Technologies.
 
 ksapra:
-    display_name: "Karan Sapra"
-    webpage: "https://www.linkedin.com/in/karan-sapra-891b6a70/"
+    display_name: Karan Sapra
+    webpage: https://www.linkedin.com/in/karan-sapra-891b6a70/
     github: karansapra
     role: alum
     bio: Ph.D., 2018. Now at NVIDIA.
 
 nilim:
-    display_name: "Nilim Sarma"
-    webpage: "https://www.linkedin.com/in/nilim-sarma-3b47901a/"
+    display_name: Nilim Sarma
+    webpage: https://www.linkedin.com/in/nilim-sarma-3b47901a/
     github: nilimsarma
     role: alum
     bio: M.S., 2018. Now at Intel.
 
 mayuk:
-    display_name: "Mayukh Sattiraju"
-    webpage: "https://www.linkedin.com/in/mayukh-sattiraju/"
+    display_name: Mayukh Sattiraju
+    webpage: https://www.linkedin.com/in/mayukh-sattiraju/
     role: alum
     bio: M.S., 2019. Now at Canoo.
 
 btsheal:
-    display_name: "Ben Sherman"
-    webpage: "https://www.linkedin.com/in/ben-t-sherman/"
+    display_name: Ben Sherman
+    webpage: https://www.linkedin.com/in/ben-t-sherman/
     github: bentsherman
     role: grad
-    image: "https://avatars0.githubusercontent.com/u/7884825"
+    image: https://avatars0.githubusercontent.com/u/7884825
     bio: Ph.D., 2021. Now at Seqera Labs.
 
 ashrit:
-    display_name: "Ashrit Shetty"
-    webpage: "https://www.linkedin.com/in/ashrit-shetty/"
+    display_name: Ashrit Shetty
+    webpage: https://www.linkedin.com/in/ashrit-shetty/
     role: alum
     bio: M.S., 2017. Now at Qualcomm.
 
 lexuan:
-    display_name: "Lexuan Sun"
-    webpage: "https://www.linkedin.com/in/lexuan-sun-040392a2/"
+    display_name: Lexuan Sun
+    webpage: https://www.linkedin.com/in/lexuan-sun-040392a2/
     role: alum
     bio: M.S., 2018. Now at Palo Alto Networks.
 
 ctargon:
-    display_name: "Colin Targonski"
-    webpage: "https://www.linkedin.com/in/colin-targonski-9018bb134/"
+    display_name: Colin Targonski
+    webpage: https://www.linkedin.com/in/colin-targonski-9018bb134/
     github: ctargon
     role: alum
-    image: "https://avatars3.githubusercontent.com/u/14915984"
+    image: https://avatars3.githubusercontent.com/u/14915984
     bio: M.S., 2019. Now at JPMorgan Chase.
 
 jtetrea:
-    display_name: "Jesse Tetreault"
-    webpage: "https://www.linkedin.com/in/jesse-tetreault/"
+    display_name: Jesse Tetreault
+    webpage: https://www.linkedin.com/in/jesse-tetreault/
     github: jtetrea
     role: alum
-    image: "https://avatars3.githubusercontent.com/u/6597672"
+    image: https://avatars3.githubusercontent.com/u/6597672
     bio: M.S., 2017. Now at NVIDIA.
 
 dwtodd:
-    display_name: "Dillon Todd"
-    webpage: "https://www.linkedin.com/in/dillon-todd-3664b116a/"
+    display_name: Dillon Todd
+    webpage: https://www.linkedin.com/in/dillon-todd-3664b116a/
     github: dwtodd
     role: alum
     bio: M.S., 2021. Now at Garmin.
 
 eweill:
-    display_name: "Edwin Weill"
-    webpage: "https://www.linkedin.com/in/edwinweill/"
+    display_name: Edwin Weill
+    webpage: https://www.linkedin.com/in/edwinweill/
     github: eweill
     role: alum
-    image: "https://avatars3.githubusercontent.com/u/6711990"
+    image: https://avatars3.githubusercontent.com/u/6711990
     bio: Ph.D., 2018. Now at NVIDIA.
 
 youngi2:
-    display_name: "Cole Younginer"
-    webpage: "https://www.linkedin.com/in/cole-younginer-927307145/"
+    display_name: Cole Younginer
+    webpage: https://www.linkedin.com/in/cole-younginer-927307145/
     role: alum
     bio: M.S., 2021. Now at Advanced Automation.
 
 shuangy:
-    display_name: "Shuangying Zhang"
+    display_name: Shuangying Zhang
     github: Zsy950708
     role: grad
     bio: M.S.
@@ -220,47 +220,47 @@ shuangy:
 
 
 feltus:
-    display_name: "F. Alex Feltus"
-    webpage: "https://www.clemson.edu/science/departments/genetics-biochemistry/people/profiles/FFELTUS"
+    display_name: F. Alex Feltus
+    webpage: https://www.clemson.edu/science/departments/genetics-biochemistry/people/profiles/FFELTUS
     role: collab
     bio: Associate Professor, Clemson
 
 ficklin:
-    display_name: "Stephen P. Ficklin"
-    webpage: "https://horticulture.wsu.edu/people/stephen-p-ficklin/"
+    display_name: Stephen P. Ficklin
+    webpage: https://horticulture.wsu.edu/people/stephen-p-ficklin/
     role: collab
     bio: Assistant Professor, WSU
 
 sapna:
-    display_name: "Sapna Sarupria"
-    webpage: "https://www.clemson.edu/cecas/departments/chbe/people/sarupria_s.html"
+    display_name: Sapna Sarupria
+    webpage: https://www.clemson.edu/cecas/departments/chbe/people/sarupria_s.html
     role: collab
     bio: Associate Professor, Clemson
 
 schiller:
-    display_name: "Ulf Schiller"
-    webpage: "https://www.clemson.edu/cecas/departments/mse/people/faculty/schiller.html"
+    display_name: Ulf Schiller
+    webpage: https://www.clemson.edu/cecas/departments/mse/people/faculty/schiller.html
     role: collab
     bio: Assistant Professor, Clemson
 
 kcwang:
-    display_name: "Kuang-Ching Wang"
-    webpage: "https://cecas.clemson.edu/cvel/People/cvel_kcwang.html"
+    display_name: Kuang-Ching Wang
+    webpage: https://cecas.clemson.edu/cvel/People/cvel_kcwang.html
     role: collab
     bio: Associate Professor, Clemson
 
 
 
 millerhall:
-    display_name: "Miller Hall"
-    webpage: "https://www.linkedin.com/in/arlindohall/"
+    display_name: Miller Hall
+    webpage: https://www.linkedin.com/in/arlindohall/
     github: arlindohall
     role: ugrad-alum
     bio: B.S., 2016. Now at AWS.
 
 csheare:
-    display_name: "Courtney Shearer"
-    webpage: "https://www.linkedin.com/in/courtney-shearer/"
+    display_name: Courtney Shearer
+    webpage: https://www.linkedin.com/in/courtney-shearer/
     github: csheare
     role: ugrad-alum
     bio: B.S., 2019. Now at CRISPR Therapeutics.
