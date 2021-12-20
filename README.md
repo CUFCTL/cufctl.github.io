@@ -11,6 +11,8 @@ conda activate bibble
 pip install bibble
 ```
 
+Whenever you push changes, Github will automatically build and deploy the website. You can inspect the build output from the "Actions" tab in the Github repository. You can also manually re-run the build from here.
+
 ## Bibliography
 
 When updating the bibliography, each BibTeX item must have at least the following fields:
